@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Davittio-L
+- 👋 Hi, I’m @Davittio-L(Colten)
 - 👀 I’m interested in ... Cloud Architecture, full-stack web development, and ai.
 - 🌱 I’m currently learning ... JavaScript, React, .Node to help better equip myself across the stack.
 - 💞️ I’m looking to collaborate on ... any projects involving Web Development - Django App's - Flask Apps - HTML/CSS/JS Apps. 
